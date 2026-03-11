@@ -34,7 +34,9 @@ The dashboard provides multiple visual insights including:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](.png)
+<img width="880" height="491" alt="Screenshot 2026-03-11 165559" src="https://github.com/user-attachments/assets/ed78fd5c-3bb1-41b7-9354-1238c97e2387" />
+
 
 ## 🎯 Project Objective
 
