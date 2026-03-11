@@ -56,9 +56,10 @@ The objective of this dashboard is to provide a **clear visualization of busines
 
 **Anuj Yadav**
 
+
 ---
 
 ## 🔗 LinkedIn Post  
 
 I shared this dashboard on LinkedIn as part of my **Power BI projects journey**.  
-Check out the post [here][((https://www.linkedin.com/posts/anuj-yadav-7a7993309_powerbi-dataanalytics-dashboarddesign-activity-7437462409071542272-DypC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6iLa8B0MKsjEFp93wfv2gF4UIBrDLriHQ)])
+Check out the post [Post](https://www.linkedin.com/posts/anuj-yadav-7a7993309_powerbi-dataanalytics-dashboarddesign-activity-7437462409071542272-DypC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE6iLa8B0MKsjEFp93wfv2gF4UIBrDLriHQ)
